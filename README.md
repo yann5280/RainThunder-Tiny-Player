@@ -1,4 +1,7 @@
 # RainThunder-Tiny-Player
 Simple macOS menubar app that play rainforest and thunder sound
 
-Modified base on [fhar/rain](https://github.com/fharper/rain)
+*Replaced the mp3 with rainstorm and thunder version
+*Added volume control
+
+Modified base on [fharper/rain](https://github.com/fharper/rain).
